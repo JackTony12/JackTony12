@@ -11,7 +11,6 @@
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" style="vertical-align:middle" /> Mis Tecnologías 
 <!-- Tecnologías -->
 <div align="center">
-  
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-3E1EDE?style=for-the-badge&logo=clerk&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
